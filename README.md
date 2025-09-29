@@ -1,1 +1,1 @@
-Downloaded to This File https://mdfirozkabir.github.io/Multipath-Renaming-script/Multipath Renaming Script.jsx
+Downloaded to This File https://mdfirozkabir.github.io/Multipath-Renaming-script/MultipathRenamingScript.jsx
